@@ -1,0 +1,72 @@
+baseURL: 'https://ben.nilsenmail.com'
+theme: risotto
+title: Ben Nilsen
+author: Ben Nilsen
+copyright: '© [Ben Nilsen](https://ben.nilsenmail.com)'
+paginate: 3
+languageCode: en
+DefaultContentLanguage: en
+enableInlineShortcodes: true
+ignoreErrors:
+  - error-remote-getjson
+params:
+  noindex: false
+  theme:
+    palette: everforest-dark
+  about:
+    title: My Website
+    description: Welcome to my website. A place for me to share what I'm up to, both personally and professionally!
+    logo: 🚀
+  socialLinks:
+    - icon: fa-brands fa-github
+      title: GitHub
+      url: 'https://github.com/rocketdebris'
+    - icon: fa-solid fa-envelope
+      title: Email
+      url: 'mailto:ben@nilsenmail.com'
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 11
+    - identifier: devlogs
+      name: Devlogs
+      url: /devlog/
+      weight: 12
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+    ordered: true
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+  instagram:
+    disabled: false
+    simple: true
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
+

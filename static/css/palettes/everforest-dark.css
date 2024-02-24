@@ -1,0 +1,22 @@
+/* base16 default dark
+ * https://github.com/chriskempson/base16-default-schemes
+ */
+
+:root {
+	--base00: #2d353b;
+	--base01: #343f44;
+	--base02: #3d484d;
+	--base03: #475258;
+	--base04: #d3c6aa;
+	--base05: #7a8478;
+	--base06: #2d353b;
+	--base07: #f8f8f8;
+	--base08: #e67e80;
+	--base09: #e69875;
+	--base0A: #dbbc7f;
+	--base0B: #a7c080;
+	--base0C: #83c092;
+	--base0D: #7fbbb3;
+	--base0E: #d699b6;
+	--base0F: #4d4c43;
+}
