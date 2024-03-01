@@ -36,7 +36,7 @@ menu:
       weight: 11
     - identifier: devlogs
       name: Devlogs
-      url: /devlog/
+      url: /post/devlog/
       weight: 12
 taxonomies:
   category: categories
