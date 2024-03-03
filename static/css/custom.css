@@ -1,1 +1,35 @@
 /* Override this file to customise the theme's CSS for your site */
+:root {
+    --red: var(--base08);
+	--orange: var(--base09);
+	--yellow: var(--base0A);
+	--green: var(--base0B);
+	--aqua: var(--base0C);
+	--blue: var(--base0D);
+	--purple: var(--base0E);
+}
+h1,
+h1:before { color: var(--red) }
+h2,
+h2:before { color: var(--orange) }
+h3,
+h3:before { color: var(--yellow) }
+h4,
+h4:before { color: var(--green) }
+h5,
+h5:before { color: var(--blue) }
+h6,
+h6:before { color: var(--purple) }
+
+h1:before,
+h2:before,
+h3:before,
+h4:before,
+h5:before,
+h6:before { content: "== " }
+h1:after,
+h2:after,
+h3:after,
+h4:after,
+h5:after,
+h6:after { content: " ==" }
