@@ -7,6 +7,8 @@
 	--aqua: var(--base0C);
 	--blue: var(--base0D);
 	--purple: var(--base0E);
+	--fg: var(--base04);
+	--off-fg: var(--base05);
 }
 h1,
 h1:before { color: var(--red) }
@@ -21,7 +23,7 @@ h5:before { color: var(--blue) }
 h6,
 h6:before { color: var(--purple) }
 
-h1:before,
+/* h1:before,
 h2:before,
 h3:before,
 h4:before,
@@ -32,4 +34,4 @@ h2:after,
 h3:after,
 h4:after,
 h5:after,
-h6:after { content: " ==" }
+h6:after { content: " ==" } */
