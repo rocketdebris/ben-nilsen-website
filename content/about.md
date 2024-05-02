@@ -1,25 +1,37 @@
-+++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
-+++
+---
+title: "About Me"
+description: "Ben Nilsen, who I am!"
+date: "2019-02-28"
+author: "Ben Nilsen"
+---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## Quick Facts
+Hi, I'm Ben! I'm a Software Engineer by trade, a Computer Scientist and 
+Physicist by education, a Christian, husband, and father by God's great grace.
+I live in Chattanooga, TN with my wife Shelby, work remotely for 
+[Shearwater Technology Inc.](https://shearwater-tech.com), and am a member at 
+[Christ Reformed Baptist Church](https://crbchattanooga.org).
 
-Hugo makes use of a variety of open source projects including:
+## Family
+I am blissfully married to my wife of 6 years, Shelby. We are about to welcome
+our first child into the world.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+## Work and Education
+I attended Samford University, graduating in the class of 2018 with a Bachelors
+of Science in Computer Science and Engineering Physics and a minor in Math.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Ever since I've been working at Shearwater Tech as a Research and Development
+Engineer, where I've been developing tools for automating simulation workflows,
+automating 3D geometry and mesh generation, performing engineering analysis,
+and Linux, Mac, and Windows system administration.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+I write in Python and all it's associated libraries
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+## Church
+CRBC is our church home. We moved to Chattanooga to be members here, we were
+looking for a confessional Reformed Baptist church a few years ago, and the
+opportunity came up so we took it. We have been thoroughly blessed by the 
+faithful preaching of God's Word, and all the means of grace here.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## Hobbies
+I use Linux, btw. 
