@@ -27,16 +27,16 @@ params:
 menu:
   main:
     - identifier: about
-      name: About
+      name: About Me
       url: /about/
       weight: 10
     - identifier: posts
-      name: Posts
-      url: /posts/
+      name: All Posts
+      url: /post/
       weight: 11
     - identifier: devlogs
       name: Devlogs
-      url: /post/devlog/
+      url: /posts/devlog/
       weight: 12
 taxonomies:
   category: categories
