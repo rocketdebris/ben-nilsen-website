@@ -23,6 +23,7 @@ h5:before { color: var(--blue) }
 h6,
 h6:before { color: var(--purple) }
 
+h1 { font-size: 1.2rem }
 /* h1:before,
 h2:before,
 h3:before,
@@ -35,3 +36,17 @@ h3:after,
 h4:after,
 h5:after,
 h6:after { content: " ==" } */
+
+.breadcrumb ol {
+  padding-left: 0;
+}
+
+.breadcrumb li {
+  display: inline;
+  color: var(--muted);
+}
+
+.breadcrumb li:not(:last-child)::after {
+  /*content: "»";*/
+  content: "/";
+}

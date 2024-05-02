@@ -32,12 +32,20 @@ menu:
       weight: 10
     - identifier: posts
       name: All Posts
-      url: /post/
+      url: /posts/
       weight: 20
     - identifier: devlogs
       name: Devlogs
       url: /posts/devlog/
       weight: 12
+    - identifier: tutorials
+      name: Tutorials
+      url: /posts/tutorials
+      weight: 13
+    - identifier: garden
+      name: Garden
+      url: /posts/garden
+      weight: 14
 taxonomies:
   category: categories
   tag: tags

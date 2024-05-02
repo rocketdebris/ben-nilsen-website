@@ -1,10 +1,9 @@
-+++
-title = 'Tectonic_planets'
-date = 2024-05-01T18:05:53-04:00
-draft = false
-+++
+---
+title: 'Tectonic Planets'
+date: 2024-05-02T10:26:17-04:00
+draft: false
+---
 
-# Tectonic Planets
 This is a dream project of mine, I'm building a planetary evolution simulator
 generating a realistic planetary surface heightmap from an initial set of
 tectonic plates and initial plate motion vectors. I'm rather sick of seeing
