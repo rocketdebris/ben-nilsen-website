@@ -33,7 +33,7 @@ menu:
     - identifier: posts
       name: All Posts
       url: /post/
-      weight: 11
+      weight: 20
     - identifier: devlogs
       name: Devlogs
       url: /posts/devlog/
