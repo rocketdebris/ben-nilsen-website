@@ -37,6 +37,19 @@ h4:after,
 h5:after,
 h6:after { content: " ==" } */
 
+ul li::marker {
+    content: '-\00A0';
+	color: var(--red);
+}
+
+ol li::marker {
+    color: var(--red);
+}
+
+.main-nav li::marker {
+    color: var(--muted);
+}
+
 .breadcrumb ol {
   padding-left: 0;
 }
