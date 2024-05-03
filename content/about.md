@@ -3,6 +3,8 @@ title: "About Me"
 description: "Ben Nilsen, who I am!"
 date: "2019-02-28"
 author: "Ben Nilsen"
+params:
+  toc: true
 ---
 
 ## Quick Facts
