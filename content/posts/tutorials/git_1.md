@@ -1,8 +1,8 @@
-+++
-title = 'Git Introduction'
-date = 2024-02-26T08:38:51-05:00
-draft = false
-+++
+---
+title: 'Git Introduction'
+date: 2024-02-26T08:38:51-05:00
+draft: true
+---
 
 # Introduction to Git
 Initially written to help my brother understand how [git](https://git-scm.com/)
