@@ -3,7 +3,9 @@ title: 'Rationale'
 date: 2024-05-02T19:52:28-04:00
 draft: false
 params:
+  author: Ben Nilsen
   toc: true
+  description: "My rationale for writing my own note sharing server."
 ---
 
 ## What's the Big Idea?
